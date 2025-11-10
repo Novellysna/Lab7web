@@ -90,25 +90,26 @@ PHP versi 7.4 atau lebih baru
 Browser modern (Chrome, Edge, Firefox, dsb)
 
 # HASIL WEB LATIHAN2_PHP
-![Hasil_latihan2_php](https://github.com/user-attachments/assets/0ee77a95-2c16-406f-ac10-2a126febf5de)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae18cbf1-f975-4bf0-ad8c-65b35bf17fc8" />
 
 # HASIL WEB PHP_DASAR_PHP
-![Hasil php_dasar_php](https://github.com/user-attachments/assets/b58e651f-3acd-437b-98b7-53976a56ccf1)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/475cd94d-c1e1-45c8-bdc7-8be0c47ffea9" />
 
 # HASIL INDEX
-![index](https://github.com/user-attachments/assets/1d5db684-4171-44c3-a2ed-2a7238214f99)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bf4c7f9-5656-4ade-a07d-ca9f80f29929" />
 
-# HASIL INPUT DATA PROGGEMER
-![Hasil Proggemer](https://github.com/user-attachments/assets/296f5285-fe5c-49db-a59d-de95181de563)
+# HASIL INPUT DATA PROGRAMERR
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11ee3aa8-c64d-48ef-a8f3-5aff351ba7ea" />
 
 # HASIL INPUT DATA MANAGER PROYEK
-![Hasil Manager proyek](https://github.com/user-attachments/assets/e70d5bf3-a54a-4a25-8999-b86d876217e5)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87bf75a6-2155-43fb-8b72-81edd3beb820" />
 
 # HASIL INPUT DATA PENGGUNA
-![Hasil Input Data Pengguna](https://github.com/user-attachments/assets/181ea860-4d77-4fdc-a5c5-edcefed0f1cb)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b94d8d3-5e03-4c4d-813f-936d6b1d6760" />
 
 # HASIL INPUT DATA GURU SEKOLAH
-![Hasil Guru sekolah](https://github.com/user-attachments/assets/15ab758a-031b-49f1-a8f2-5430434c4ba1)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7a88fd5-0335-4b34-8945-408229a6d449" />
 
 # HASIL DESIGNER GRAFIS
-![Hasil Designer grafis](https://github.com/user-attachments/assets/0c6a4525-d778-45d2-b21e-9c4116df5066)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e737699-0abb-46d7-862a-ed2254a57d4e" />
+
